@@ -99,3 +99,8 @@ public class VehicleManagement {
         myNewMotor.getVehicleType();
     }
 }
+
+// 1) Interface/ Implements guday
+// 2) Extends aka Parent-Child relationship guday - child can access parent methods
+// 3) Abstract!!! Abstract class is a class with one or more abstract methods. Which any subclasses are required to implement!
+// 4) Overridng and overloading guday
